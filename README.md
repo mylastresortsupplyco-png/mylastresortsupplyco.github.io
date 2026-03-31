@@ -48,7 +48,7 @@
 
 <p>
 Video courtesy of 
-<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+<a href="IMG_0022(1).MOV" target="_blank">Junk Removal</a>.
 </p>
 
         <img src="/w3images/house5.jpg" alt="House" style="width:100%">
