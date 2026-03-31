@@ -102,7 +102,7 @@
 
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="IMG_7689jpeg" alt="John" style="width:100%">
+      <img src="IMG_7689.jpeg" alt="John" style="width:100%">
       <h3></h3>
       <p class="w3-opacity">CEO & Founder</p>
       <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
