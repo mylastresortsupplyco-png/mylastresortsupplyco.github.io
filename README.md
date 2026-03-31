@@ -41,7 +41,7 @@
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Junk Removal</div>
         <video width="400" controls>
-      <img src="/w3images/house5.jpg" alt="House" style="width:100%">
+      <img src="img_7.jpeg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
