@@ -46,13 +46,13 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">ATTENTION</div>
+        <div class="w3-display-topleft w3-white w3-padding"></div>
         <img src="IMG_0131.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Our Trailer</div>
+        <div class="w3-display-topleft w3-white w3-padding">Our Trailer</div>
         <img src="img_2.JPG" alt="House" style="width:100%">
       </div>
     </div>
