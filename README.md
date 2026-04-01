@@ -87,9 +87,7 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.
+    <p> We are here to make an impact for you, starting with Junk Removal. One junk removal at a time. We will provide and offer more services when the time comes. We are dedicated to making your life easier and simple. Even if it means that we're your last resort. 
     </p>
   </div>
 
@@ -98,7 +96,7 @@
       <img src="IMG_8381.jpeg" alt="John" style="width:100%">
       <h3></h3>
       <p class="w3-opacity">CEO & Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p></p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
 
